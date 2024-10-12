@@ -1,3 +1,4 @@
+![logo](https://github.com/Satbir-Singh-42/Satbir-Singh-42/blob/main/banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Satbir Singh</h1>
 <h3 align="center">Passionate B.Tech IT Student from Punjab, India</h3>
 
